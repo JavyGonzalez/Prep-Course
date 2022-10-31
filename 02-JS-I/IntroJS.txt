@@ -1,0 +1,13 @@
+* Variables
+	Las Variables son para asignarles valores que necesitamos en el sistema que estamos creando, tambien sireven para mostralos.
+	Existen varios tipos de variables, numericas, cadenas, booleanas, etc.
+ * Strings
+	Es un tipo de variables donde recibimos cadenas de textos.
+ * Funciones (argumentos, `return`)
+	Las funciones son porciones de códigos que usamos varias veces en el sistema y para no repetirlas solo se llama a al funcion declarada.
+	Los argumentos de una función se usan para pasar datos para que se ejecute con ellos.
+	Return son los valores que devuelve la función luego de ejecutar su código.
+ * Declaraciones `if`
+	Las delcaraciones de IF son para realizar bifurcaiones en el sistema, es decir preguntar que rama tomar dependiendo del valor evaluado.
+ * Valores booleanos (`true`, `false`)
+	El valor booleano TRUE es obtenido cuando preguntamos algo y ese resultado es verdadero, el valor FALSE es el contrario a TRUE.
