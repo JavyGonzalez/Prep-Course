@@ -1,0 +1,25 @@
+for
+	For es un statement de iteración para ejecutar una determinada cantidad de veces cierto código.
+
+&&, ||, !
+	&& es un operador lógico que tiene la siguiente tabla de verdad y representa al AND o Y
+		a	b	&&
+		True	True	True
+		False	True	False
+		True	False	False
+		False	False	False
+	Es decir que toma el valor true solo cuando ambos operadores son true.
+	
+	|| es un operador lógico que tiene la siguiente tabla de verdad y representa al OR u o
+		a	b	&&
+		True	True	True
+		False	True	True
+		True	False	True
+		False	False	False
+	Es decir que toma el valor false solo cuando ambos operadores son false.
+
+	! es un operador lógico que tiene la siguiente tabla de verdad
+		a	!	
+		True	False	
+		False	True		
+	Es decir que toma el valor contrario al de los operadores que está evaluando.
