@@ -1,0 +1,3 @@
+Array.
+Es una colección de datos a los cuales puedo acceder mediate un índice, el cual comienza en 0 para la primera posición. La longitud
+la puedo saber con la propiedad length. Teniendo el comienzo y el final del arreglo puedo acceder a todos sus elementos.
