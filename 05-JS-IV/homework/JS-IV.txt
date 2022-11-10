@@ -1,0 +1,14 @@
+* Objetos
+    Es una colección de elementos de diferentes clases que definen o describen al objeto.
+* Propiedades
+    Cada uno de los elementos que definen al objeto se llaman propiedades que hacen referencia y describen al objeto.
+* Métodos
+    Son funciones que forman parte del objeto y se toma como un elemento del mismo
+* Bucle `for…in`
+    Con este bucle podemos recorrer el objeto sobre cada clave-valor. El for... in va itereando sobre cada clave del objeto
+    y podemos trabajar sobre esa propiedad.
+* Notación de puntos vs notación de corchetes
+    Estas notaciones se usan para hacer referencia a una propiedad del objeto. La notación de puntos se usa de la siguiente
+    manera objeto.propiedad de este modo estamos accediendo a la propiedad del objeto. La notacion de cochetes se usa asi
+    objeto['propiedad'].
+    De las dos maneras anteriores estamos accediendo a la misma propiedad del objeto.
