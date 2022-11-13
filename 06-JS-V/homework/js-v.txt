@@ -1,0 +1,7 @@
+* `prototype`
+Cuando creamos codigos de progamación muchas veces necesitamos ejecutar una porción de código muchas veces, para que eso no ocupe
+demasiada memoria cremos funciones. Entonces se crean clases donde usamos estas funciones y podemos acceder a ellas desde otros objetos
+y dar acceso. Esto se llama "prototype". Cada una de las clases existente tiene una propiedad llamada prototype.
+
+* _Constructors_ (de Clases)
+El construtor de clase sería como el molde que vamos usar en esa clase.
