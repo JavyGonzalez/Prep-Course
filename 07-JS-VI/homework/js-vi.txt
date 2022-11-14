@@ -1,0 +1,2 @@
+* Funciones Callback
+    Estas Funciones pueden pasar como argumentos funciones a otras funciones, es decir son como una especie de funciones anidas.
